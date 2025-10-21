@@ -1,0 +1,16 @@
+{
+  "ETQ101": {
+    "name": "Intro to Testing",
+    "assignments": [
+      {"name": "A1", "weight": 10}
+    ]
+  },
+  "CA200": {
+    "name": "Some Course Updated",
+    "credits": 4
+  },
+  "CMP300": {
+    "name": "Extra Course",
+    "credits": 3
+  }
+}
